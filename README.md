@@ -6,6 +6,8 @@
 
 I'm a versatile full-stack developer with a passion for creating innovative solutions across various domains. From game development to web, mobile, and desktop applications, I thrive on building projects that push the boundaries of technology. I also explore the exciting world of machine learning, leveraging AI to solve complex problems and enhance user experiences. My journey is all about crafting meaningful digital experiences, combining technical expertise with creative vision.
 
+Here is my full portfolio: https://ztormdev.netlify.app/
+
    <p align="left">
       <a href="https://www.youtube.com/channel/UCX6lgdcb41Z954QJH0nl1wg?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCX6lgdcb41Z954QJH0nl1wg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
