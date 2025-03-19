@@ -54,8 +54,6 @@ I'm a versatile full-stack developer with a passion for creating innovative solu
 
 #
 
----
-
 ### 📊 Stats
 
 ![ZTormDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ztormdev&show_icons=true&theme=gruvbox)
