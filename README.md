@@ -9,10 +9,10 @@ I'm a versatile full-stack developer with a passion for creating innovative solu
 Here is my full portfolio: https://ztormdev.netlify.app/
 
    <p align="left">
-      <a href="https://www.youtube.com/channel/UCX6lgdcb41Z954QJH0nl1wg?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCX6lgdcb41Z954QJH0nl1wg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UCX6lgdcb41Z954QJH0nl1wg">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCX6lgdcb41Z954QJH0nl1wg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://www.youtube.com/channel/UCYySaKQGXRRAHWcJlq_WK_g?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYySaKQGXRRAHWcJlq_WK_g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/channel/UCYySaKQGXRRAHWcJlq_WK_g">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYySaKQGXRRAHWcJlq_WK_g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ZTormDev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZTormDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ZTormDev?tab=repositories&sort=stargazers">
